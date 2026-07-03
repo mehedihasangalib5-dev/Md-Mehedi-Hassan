@@ -1,0 +1,27 @@
+{
+  "name": "md-mehedi-hassan-portfolio",
+  "version": "1.0.0",
+  "description": "Md Mehedi Hassan - Student Portfolio showcasing education, skills, projects, certificates and achievements",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehedihasangalib5-dev/Md-Mehedi-Hassan.git"
+  },
+  "keywords": [
+    "portfolio",
+    "student",
+    "web-development"
+  ],
+  "author": "Md Mehedi Hassan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehedihasangalib5-dev/Md-Mehedi-Hassan/issues"
+  },
+  "homepage": "https://github.com/mehedihasangalib5-dev/Md-Mehedi-Hassan#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
